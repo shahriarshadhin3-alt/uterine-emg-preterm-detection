@@ -17,6 +17,7 @@ This repository implements an end-to-end biomedical signal processing and machin
    - Classifiers: Random Forest and XGBoost evaluated primarily via **AUC-ROC**.
 
 ## Repository Structure
+```
 ├── dataset/                    # Ignored in git (PhysioNet TPEHG v1.0.1)
 ├── notebooks/
 │   └── tpehg_pipeline.ipynb    # Complete pipeline executed in Google Colab
@@ -25,4 +26,4 @@ This repository implements an end-to-end biomedical signal processing and machin
 ├── tpehg_time_frequency_features.csv # Extracted feature matrix
 ├── requirements.txt            # Dependency specification
 └── README.md
-
+```
