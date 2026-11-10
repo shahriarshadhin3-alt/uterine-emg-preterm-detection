@@ -78,6 +78,14 @@ README.md
 2. Run them in order. Libraries used: `wfdb`, `numpy`, `pandas`, `scipy`, `scikit-learn`, `PyWavelets`, `matplotlib`, `tqdm`.
 3. Notebook 07 and the later analysis save outputs to Google Drive.
 
+## How to use
+
+- **Read the results:** see the Results section above and the figures in `results/`.
+- **Reproduce the analysis:** open `notebooks/07_full_dataset_feature_extraction.ipynb` in Google Colab, choose Runtime → Run all, and allow Google Drive access when asked. The data are downloaded automatically from PhysioNet. Running everything takes roughly 15-30 minutes.
+- **Outputs:** feature tables, model comparison tables and figures are saved to your own Drive under `uterine-emg-preterm-detection/data`.
+
+**Note:** this is a research and learning project. It is not a medical device and must not be used for clinical decisions.
+
 ## References
 
 - Fele-Žorž G. et al. (2008). A comparison of various linear and non-linear signal processing techniques to separate uterine EMG records of term and pre-term delivery groups. *Medical & Biological Engineering & Computing*.
