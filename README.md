@@ -32,7 +32,7 @@ The data are downloaded directly from PhysioNet inside the notebooks, so they ar
 | `06_time_frequency_analysis` | Spectrogram and wavelet analysis |
 | `07_full_dataset_feature_extraction` | Features for all 300 recordings, labels, model comparison, statistics and final figures (all in one notebook) |
 
-Later steps in the same notebook workflow:
+The later steps are in the second half of notebook 07:
 
 1. **Labels:** gestation weeks read from record headers, then split at 37 weeks.
 2. **Version 2 features:** 21 features from all three channels, using the 0.3-3 Hz filtered signal (RMS, peak, median and mean frequency, spectral entropy, relative band power).
@@ -66,7 +66,7 @@ Figures are in `results/`: cross-validated ROC curves, SVM confusion matrix, and
 ## Repository structure
 
 ```
-notebooks/   Jupyter/Colab notebooks (00-07 plus later analysis)
+notebooks/   Colab notebooks 00-07 (07 includes labels, models, statistics and figures)
 data/        Feature tables with labels, model comparison and test tables (CSV)
 results/     Figures (PNG)
 README.md
