@@ -2,12 +2,12 @@
 Time-frequency analysis of uterine EHG signals for term and preterm pregnancy classification
 Exploratory machine-learning analysis of uterine electrohysterogram (EHG) recordings to separate term from preterm deliveries, using the public TPEHG database from PhysioNet.
 
-**Author:** [S.M.Shahriar Shadhin] Department of Biomedical Engineering, Islamic University
-            * [Sidratul Muntaha] (Department of Biomedical Engineering, Islamic University)
-            * [Toufique Ahmed] (Department of Biomedical Engineering, Islamic University)
-            * [Unit Chakma Shuvro] (Department of Biomedical Engineering, Islamic University)
-            * [Nishad Al Hasan] (Department of Biomedical Engineering, Islamic University)
-            * [Moudud Ahmed] (Department of Biomedical Engineering, Islamic University)
+**Author:** S.M.Shahriar Shadhin Department of Biomedical Engineering, Islamic University
+            * Sidratul Muntaha (Department of Biomedical Engineering, Islamic University)
+            * Toufique Ahmed (Department of Biomedical Engineering, Islamic University)
+            * Unit Chakma Shuvro (Department of Biomedical Engineering, Islamic University)
+            * Nishad Al Hasan (Department of Biomedical Engineering, Islamic University)
+            * Moudud Ahmed (Department of Biomedical Engineering, Islamic University)
 **Status:** Completed as a learning and research project. Results are exploratory.
 
 ## Dataset
